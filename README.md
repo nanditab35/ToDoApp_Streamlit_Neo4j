@@ -92,5 +92,4 @@ GitHub: @nanditab35
 🙏 Acknowledgments
 - Built with Streamlit
 - Database powered by Neo4j
-- 
-Graph visualization using Neo4j's native capabilities
+- Graph visualization using Neo4j's native capabilities
