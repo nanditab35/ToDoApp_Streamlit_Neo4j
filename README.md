@@ -86,10 +86,10 @@ ToDoApp_Streamlit_Neo4j/
 ### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👥 Author
-GitHub: @nanditab35
+### 👥 Author
+- GitHub: @nanditab35
 
-🙏 Acknowledgments
+### 🙏 Acknowledgments
 - Built with Streamlit
 - Database powered by Neo4j
 - Graph visualization using Neo4j's native capabilities
